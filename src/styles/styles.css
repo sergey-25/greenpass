@@ -1,0 +1,50 @@
+.headerdiv {
+    height: 500px;
+    padding-top: 2.3rem;
+    background-color: #E3E2Df;
+    position: relative;
+color: #C3073F;
+}
+
+.innerheaderdiv {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.resultsdiv {
+    height: 1500px;
+    position: relative;
+    background-color: #E3E2Df;
+color: #C3073F;
+}
+
+.innerresultsdiv {
+    margin: 0;
+    position: absolute;
+    word-break: break-all;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.tablediv {
+    height: 1500px;
+    position: relative;
+    background-color: #1A1A1D;
+color: #C3073F;
+}
+
+.innertablediv {
+    margin: 0;
+    position: absolute;
+    word-break: break-all;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
