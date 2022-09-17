@@ -53,11 +53,12 @@ const handleScan = (data) => {
     console.log(finalDataObject)
   }
 }
+
 return (
   <div className="container mx-auto text-center min-w-full px-0 bg-pic01 bg-no-repeat bg-cover bg-center">
    <div className="flex justify-center items-center h-screen">
     <div className="textcenter">
-    <h1 className="text-8xl text-white fadeIn ease-in-out delay-400">Green Pass Information Verification App</h1>
+    <h1 className="text-8xl text-white">Green Pass Information Verification App</h1>
     <p className="text-2xl text-white">Check the information stored on your Green Pass / Vaccine Passport by scanning your QR code below</p>
 </div>
 </div>
